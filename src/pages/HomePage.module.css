@@ -1,0 +1,32 @@
+/* HomePage.module.css */
+.image-container {
+  position: relative;
+}
+
+.image-wrapper {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+.image1 {
+  width: 100%;
+  height: 100%;
+}
+
+.image2 {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.text-overlay {
+  position: absolute;
+  bottom: 15%;
+  left: 15%;
+  color: white;
+  padding: 5px;
+  font-size: 16px;
+}

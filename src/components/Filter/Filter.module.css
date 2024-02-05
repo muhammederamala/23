@@ -1,0 +1,17 @@
+/* Filter.module.css */
+.inline-list {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+  }
+  
+  .inline-item {
+    cursor: pointer;
+    padding: 10px;
+    border: 1px solid transparent;
+  }
+  
+  .inline-item.active {
+    border-bottom: 2px solid blue;
+  }
+  
